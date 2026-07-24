@@ -1,42 +1,21 @@
-<h1 align="center">Hi, I'm Aaryan Prakash 👋</h1>
+# 💫 About Me:
+🔭 Final-year Computer Science student at BMS College of Engineering, Bengaluru<br>👯 I’m open to collaborating on AI/ML, cybersecurity, computer vision, and full-stack projects<br>🌱 I’m currently researching robust semi-supervised federated learning for intrusion detection in SDN-enabled IoT environments<br>
 
-<p align="center">
-  Final-year Computer Science student at <strong>BMS College of Engineering, Bengaluru</strong>.<br />
-  I build practical AI-powered products and enjoy taking ideas from data and models to useful, well-crafted applications.
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aaryan-prakash/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/TheAaryanPrakash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryan-prakash/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/TheAaryanPrakash)
 
-## What I'm working on
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-- Building reliable, explainable AI applications — especially around NLP and information quality.
-- Exploring full-stack product development with React, Supabase, Python APIs, and modern deployment workflows.
-- Looking for opportunities to collaborate on thoughtful AI/ML projects and research.
+# 🚀 Projects:
+🔐 **Robust Semi-Supervised Federated Learning-Based Intrusion Detection System** — Building a federated IDS for SDN-enabled IoT using autoencoder anomaly detection, trust-based malicious-client filtering, and robust aggregation against poisoning attacks.<br><br>
+📰 **[Fake News Detection using BERT & LightGBM](https://github.com/TheAaryanPrakash/Fake-News-Detection)** — An explainable NLP system using BERT embeddings, LightGBM, leakage audits, and out-of-distribution testing.<br><br>
+😴 **Drowsiness Detection System** — A real-time computer-vision system using OpenCV, dlib facial landmarks, and Eye Aspect Ratio to detect fatigue from webcam video.<br><br>
+🗂️ **[Notes On Time](https://github.com/TheAaryanPrakash/NOT-2026)** — An AI-assisted flashcard application that generates study sets from notes, PDFs, and images, with quizzes, printing, and sharing.<br><br>
+✈️ **WingIt: Flight and Hotel Booking** — A Figma-designed web and Flutter mobile app with real-time flight information through third-party APIs.
 
-## Featured projects
-
-| Project | What I built | Stack |
-| --- | --- | --- |
-| [Fake News Detector](https://github.com/TheAaryanPrakash/Fake-News-Detection) | An explainable news-classification app that combines frozen BERT embeddings, handcrafted writing-style features, and LightGBM. The work includes leakage audits, dataset diversification, and out-of-distribution testing. | Python, BERT, LightGBM, FastAPI, Flask |
-| [Notes On Time](https://github.com/TheAaryanPrakash/NOT-2026) | An AI-assisted flashcard app: generate study sets from notes, PDFs, or images; quiz, print, and share them. | React, Supabase, Tailwind CSS, Groq, Vercel |
-| [AI Lab](https://github.com/TheAaryanPrakash/AI-Lab) | Coursework and experiments covering core artificial-intelligence concepts. | Python |
-| [ML Lab](https://github.com/TheAaryanPrakash/ML-Lab) | Machine-learning lab work and hands-on experiments. | Python, Jupyter Notebook |
-
-## Toolbox
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,fastapi,flask,supabase,postgres,mysql,java,c,html,css,git,github&perline=8" alt="Python, JavaScript, React, Node.js, FastAPI, Flask, Supabase, PostgreSQL, MySQL, Java, C, HTML, CSS, Git, GitHub" />
-</p>
-
-## A little more about me
-
-I care about the parts of AI work that are easy to overlook: data quality, evaluation, useful interfaces, and being honest about a model's limits. Outside project work, I am steadily sharpening my foundations in machine learning, systems, and software engineering.
-
----
-
-<p align="center">
-  <i>Open to collaborating on ambitious, useful projects.</i>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TheAaryanPrakash&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheAaryanPrakash&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAaryanPrakash&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
