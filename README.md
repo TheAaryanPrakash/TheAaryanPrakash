@@ -11,7 +11,7 @@
 # 🚀 Projects:
 🔐 **Robust Semi-Supervised Federated Learning-Based Intrusion Detection System** — Building a federated IDS for SDN-enabled IoT using autoencoder anomaly detection, trust-based malicious-client filtering, and robust aggregation against poisoning attacks.<br><br>
 📰 **[Fake News Detection using BERT & LightGBM](https://github.com/TheAaryanPrakash/Fake-News-Detection)** — An explainable NLP system using BERT embeddings, LightGBM, leakage audits, and out-of-distribution testing.<br><br>
-😴 **Drowsiness Detection System** — A real-time computer-vision system using OpenCV, dlib facial landmarks, and Eye Aspect Ratio to detect fatigue from webcam video.<br><br>
+😴 **[Drowsiness Detection System](https://github.com/TheAaryanPrakash/Drowsiness-Detection)** — A real-time computer-vision system using OpenCV, dlib facial landmarks, and Eye Aspect Ratio to detect fatigue from webcam video.<br><br>
 🗂️ **[Notes On Time](https://github.com/TheAaryanPrakash/NOT-2026)** — An AI-assisted flashcard application that generates study sets from notes, PDFs, and images, with quizzes, printing, and sharing.<br><br>
 ✈️ **WingIt: Flight and Hotel Booking** — A Figma-designed web and Flutter mobile app with real-time flight information through third-party APIs.
 
